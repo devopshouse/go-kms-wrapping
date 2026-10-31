@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	wrapping "github.com/hashicorp/go-kms-wrapping/v2"
-	"github.com/oracle/oci-go-sdk/v60/common"
+	"github.com/oracle/oci-go-sdk/v65/common"
 	"golang.org/x/net/context"
 )
 
